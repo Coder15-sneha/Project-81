@@ -1,5 +1,5 @@
 import React from 'react';
-import { CreateBottomTabNavigator } from '@react-navigation/bottom-tabs';
+import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import Ionicons from 'react-native-vector-icons/Ionicons';
 import Feed from "../screens/Feed";
 import CreatePost from '../screens/CreatePost';
